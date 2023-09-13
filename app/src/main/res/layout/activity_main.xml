@@ -25,7 +25,7 @@
         android:text="@string/find_beer" />
 
     <TextView
-        android:id="@+id/brands"
+        android:id="@+id/brands_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
